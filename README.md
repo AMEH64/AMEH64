@@ -1,6 +1,5 @@
 ### Hello 👋🏻, I'm Allen Hansen (he/him/his)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ameh64.visitor-badge)
 ![](https://img.shields.io/github/followers/ameh64?style=social)
 [![](https://img.shields.io/badge/-@ameh64-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ameh64)
 [![](https://img.shields.io/badge/-@ameh64-%23181717?style=flat-square&logo=github)](https://github.com/ameh64)
