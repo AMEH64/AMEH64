@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/-@ameh64-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ameh64) 
 [![](https://img.shields.io/badge/-Allen%20Hansen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allen-hansen/)](https://www.linkedin.com/in/allen-hansen/)
 
-<a href="https://github.com/ameh64" alt="Allen Hansen's GitHub profile">
+<!-- <a href="https://github.com/ameh64" alt="Allen Hansen's GitHub profile">
   <img src="https://github-readme-stats.vercel.app/api?username=ameh64&count_private=true&show_icons=true&hide=contribs,stars&bg_color=262626&title_color=f43f5e&text_color=e5e5e5&icon_color=f43f5e" />
-</a>
+</a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameh64&count_private=true&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
